@@ -11,5 +11,5 @@ int main()
 	  i++;
   }
   std::cout << hw << "has " << i << " characters" << std::endl;
-  return 0;
+  return 1;
 }
